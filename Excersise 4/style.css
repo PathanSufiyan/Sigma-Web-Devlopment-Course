@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --primary-color: rgb(87, 175, 234);
+}
+
+body{
+    background-color: var(--primary-color);
+}
+
+ul li{
+     list-style-type: none;
+     display: inline;
+     padding: 23px;
+     font-family: cursive;
+     font-weight: bolder;
+     color: white;
+}
+
+nav{
+    background-color: rgb(159, 42, 183);
+    height: 4vh;
+    padding-top: 5px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    height: 3vh;
+}
