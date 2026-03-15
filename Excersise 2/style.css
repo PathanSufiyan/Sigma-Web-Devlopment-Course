@@ -1,0 +1,14 @@
+* {
+    margin: 2;
+    padding: 2;
+}
+
+#a {
+    background-color: yellow;
+    color: red;
+}
+
+#b {
+    background-color: blueviolet;
+    color: white;
+}
