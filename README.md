@@ -26,4 +26,4 @@ All exercises are inspired by the **Sigma Web Development Course by CodeWithHarr
 
 ## Author
 
-ShadowOP Gamerz
+Pathan Sufiyan
