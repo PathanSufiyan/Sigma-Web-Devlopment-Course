@@ -19,10 +19,6 @@ Each folder contains the code for different exercises completed during the learn
 
 All exercises are inspired by the **Sigma Web Development Course by CodeWithHarry**.
 
-## Technologies Used
-
-* HTML5
-* CSS3
 
 ## Author
 
